@@ -4,3 +4,8 @@ python:alpine3.19
 jxxghp/moviepilot:latest
 nevinee/qbittorrent:latest
 amilys/embyserver:latest
+estrellaxd/auto_bangumi:latest
+chisbread/transmission:latest
+tonyrl/transmission-skip-hash-check:latest
+nyanmisaka/jellyfin:latest
+amilys/embyserver_arm64v8:latest

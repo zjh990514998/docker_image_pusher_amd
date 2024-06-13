@@ -9,3 +9,4 @@ chisbread/transmission:latest
 tonyrl/transmission-skip-hash-check:latest
 nyanmisaka/jellyfin:latest
 amilys/embyserver_arm64v8:latest
+hsuyelin/nas-tools:latest

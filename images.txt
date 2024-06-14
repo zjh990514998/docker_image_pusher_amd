@@ -10,3 +10,5 @@ tonyrl/transmission-skip-hash-check:latest
 nyanmisaka/jellyfin:latest
 amilys/embyserver_arm64v8:latest
 hsuyelin/nas-tools:latest
+amilys/embyserver:4.8.7.0
+amilys/embyserver:4.7.14.0

@@ -15,3 +15,4 @@ amilys/embyserver:4.7.14.0
 amilys/embyserver:4.8.6.0
 0xforee/nas-tools:3.4.8
 0xforee/nas-tools:latest
+jeessy/ddns-go:latest

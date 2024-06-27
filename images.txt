@@ -9,11 +9,8 @@ chisbread/transmission:latest
 tonyrl/transmission-skip-hash-check:latest
 nyanmisaka/jellyfin:latest
 amilys/embyserver_arm64v8:latest
-hsuyelin/nas-tools:latest
 amilys/embyserver:4.8.7.0
 amilys/embyserver:4.7.14.0
 amilys/embyserver:4.8.6.0
-0xforee/nas-tools:3.4.8
-0xforee/nas-tools:latest
 jeessy/ddns-go:latest
 linyuan0213/nas-tools:latest

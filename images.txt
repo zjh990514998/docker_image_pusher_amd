@@ -1,3 +1,4 @@
+nevinee/qbittorrent:4.6.3
 nyanmisaka/jellyfin:latest
 kasmweb/nginx:1.25.3
 python:alpine3.19

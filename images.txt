@@ -1,9 +1,5 @@
 jxxghp/moviepilot:latest
---platform=linux/arm64 jxxghp/moviepilot:latest
---platform=linux/amd64 jxxghp/moviepilot:latest
 nevinee/qbittorrent:latest
---platform=linux/arm64 nevinee/qbittorrent:latest
---platform=linux/amd64 nevinee/qbittorrent:latest
 nevinee/qbittorrent:latest
 nevinee/qbittorrent:4.6.3
 nyanmisaka/jellyfin:latest

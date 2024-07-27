@@ -1,11 +1,14 @@
-amilys/embyserver_arm64v8:latest
+jxxghp/moviepilot:latest
+--platform=linux/arm64 jxxghp/moviepilot:latest
+--platform=linux/amd64 jxxghp/moviepilot:latest
+nevinee/qbittorrent:latest
+--platform=linux/arm64 nevinee/qbittorrent:latest
+--platform=linux/amd64 nevinee/qbittorrent:latest
 nevinee/qbittorrent:latest
 nevinee/qbittorrent:4.6.3
 nyanmisaka/jellyfin:latest
 kasmweb/nginx:1.25.3
 python:alpine3.19
-jxxghp/moviepilot:latest
-nevinee/qbittorrent:latest
 amilys/embyserver:latest
 estrellaxd/auto_bangumi:latest
 chisbread/transmission:latest

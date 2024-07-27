@@ -1,4 +1,4 @@
---platform=linux/arm64 nevinee/qbittorrent:latest
+amilys/embyserver_arm64v8:latest
 nevinee/qbittorrent:latest
 nevinee/qbittorrent:4.6.3
 nyanmisaka/jellyfin:latest

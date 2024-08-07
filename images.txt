@@ -1,3 +1,4 @@
+linuxserver/plex:latest
 kimi360/homebox:latest
 jxxghp/moviepilot:latest
 nevinee/qbittorrent:latest

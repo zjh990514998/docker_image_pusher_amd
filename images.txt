@@ -1,3 +1,4 @@
+xiaoyaliu/alist:latest
 linuxserver/plex:latest
 kimi360/homebox:latest
 jxxghp/moviepilot:latest

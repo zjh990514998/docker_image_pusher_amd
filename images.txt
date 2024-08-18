@@ -1,3 +1,4 @@
+linyuan0213/nas-tools:latest
 xiaoyaliu/alist:latest
 linuxserver/plex:latest
 kimi360/homebox:latest
@@ -18,7 +19,6 @@ amilys/embyserver:4.8.7.0
 amilys/embyserver:4.7.14.0
 amilys/embyserver:4.8.6.0
 jeessy/ddns-go:latest
-linyuan0213/nas-tools:latest
 ddg5366/roonserver:latest
 6053537/portainer-ce:latest
 homeassistant/home-assistant:stable

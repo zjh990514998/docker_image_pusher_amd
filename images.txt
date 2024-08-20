@@ -1,3 +1,4 @@
+linuxserver/jackett:latest
 linyuan0213/nas-tools:latest
 xiaoyaliu/alist:latest
 linuxserver/plex:latest

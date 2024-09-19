@@ -1,3 +1,5 @@
+ffdfgdfg/nps
+ffdfgdfg/npc
 mzz2017/v2raya:latest
 linuxserver/jackett:latest
 linyuan0213/nas-tools:latest

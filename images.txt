@@ -1,3 +1,4 @@
+xhongc/music_tag_web:latest
 iyuucn/iyuuplus:latest
 ffdfgdfg/nps
 ffdfgdfg/npc

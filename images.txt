@@ -1,3 +1,4 @@
+seatable/seatable-developer
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
 iyuucn/iyuuplus:latest

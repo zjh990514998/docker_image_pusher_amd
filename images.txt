@@ -1,3 +1,4 @@
+6053537/onlyoffice:7.2.1.34
 gdy666/lucky:latest
 seatable/seatable-developer
 deluan/navidrome:latest

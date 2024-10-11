@@ -2,7 +2,6 @@ seafileltd/seafile-mc:latest
 186184848/documentserver:latest
 186184848/documentserver:8.1.1
 nextcloud:latest
-6053537/onlyoffice:7.2.1.34
 gdy666/lucky:latest
 seatable/seatable-developer
 deluan/navidrome:latest

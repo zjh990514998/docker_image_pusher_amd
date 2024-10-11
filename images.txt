@@ -1,5 +1,4 @@
 seafileltd/seafile-mc:latest
-186184848/documentserver:8.1.1
 nextcloud:latest
 gdy666/lucky:latest
 seatable/seatable-developer

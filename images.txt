@@ -1,4 +1,4 @@
-seafileltd/seafile-mc:latest
+xiaohuochaia/seafile:11.0.11
 nextcloud:latest
 gdy666/lucky:latest
 seatable/seatable-developer

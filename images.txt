@@ -1,3 +1,4 @@
+seafileltd/seafile-mc:latest
 nextcloud:latest
 gdy666/lucky:latest
 seatable/seatable-developer

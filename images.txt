@@ -1,6 +1,5 @@
 jxxghp/moviepilot-v2:latest
 gitlab/gitlab-ce:latest
-oldiy/chrome-novnc:latest
 xiaohuochaia/seafile:11.0.11
 nextcloud:latest
 gdy666/lucky:latest

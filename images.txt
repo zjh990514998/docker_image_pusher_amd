@@ -1,7 +1,6 @@
 jrohy/webssh:latest
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
-iyuucn/iyuuplus:latest
 ffdfgdfg/nps
 ffdfgdfg/npc
 mzz2017/v2raya:latest

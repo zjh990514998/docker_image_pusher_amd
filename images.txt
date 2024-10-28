@@ -1,8 +1,5 @@
 jrohy/webssh:latest
 jxxghp/moviepilot-v2:latest
-nextcloud:latest
-gdy666/lucky:latest
-seatable/seatable-developer
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
 iyuucn/iyuuplus:latest

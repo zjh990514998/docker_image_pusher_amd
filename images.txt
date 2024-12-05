@@ -1,3 +1,4 @@
+yidadaa/chatgpt-next-web:latest
 nevinee/qbittorrent:4.5.4
 jxxghp/moviepilot-v2:latest
 ddsderek/wxchat:latest

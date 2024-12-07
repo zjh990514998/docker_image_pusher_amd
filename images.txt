@@ -1,6 +1,4 @@
-yidadaa/chatgpt-next-web:latest
-nevinee/qbittorrent:4.5.4
+iyuucn/iyuuplus-dev:latest
 jxxghp/moviepilot-v2:latest
-ddsderek/wxchat:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

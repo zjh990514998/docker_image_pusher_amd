@@ -1,5 +1,4 @@
-hslr/sun-panel:latest
-iyuucn/iyuuplus:latest
+xiuxiu10201/115:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

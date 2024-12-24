@@ -1,3 +1,4 @@
+b3log/siyuan:latest
 xiuxiu10201/115:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

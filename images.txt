@@ -1,6 +1,4 @@
-phpmyadmin:latest
-b3log/siyuan:latest
-xiuxiu10201/115:latest
+luisimon/cloudflarespeedtest:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

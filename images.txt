@@ -1,3 +1,4 @@
+nevinee/qbittorrent:4.6.7
 luisimon/cloudflarespeedtest:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

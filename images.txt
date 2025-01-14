@@ -1,6 +1,4 @@
-ghcr.io/ajnart/homarr:latest
-nevinee/qbittorrent:4.6.7
-luisimon/cloudflarespeedtest:latest
+ghcr.io/linuxserver/prowlarr:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

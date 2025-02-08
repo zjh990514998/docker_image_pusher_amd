@@ -1,3 +1,4 @@
+linuxserver/heimdall:latest
 youshandefeiyang/allinone:latest
 tangyoha/telegram_media_downloader:latest
 imaliang/cloud-media-sync:latest

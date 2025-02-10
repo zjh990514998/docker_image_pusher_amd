@@ -1,8 +1,3 @@
-xiuxiu10201/115:latest
-linuxserver/heimdall:latest
-youshandefeiyang/allinone:latest
-tangyoha/telegram_media_downloader:latest
-imaliang/cloud-media-sync:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

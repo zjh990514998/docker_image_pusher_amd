@@ -1,3 +1,4 @@
+allanpk716/chinesesubfinder:latest
 amtoaer/bili-sync-rs:latest
 dreamacro/clash:latest
 allanpk716/chinesesubfinder:latest

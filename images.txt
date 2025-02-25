@@ -1,7 +1,3 @@
-allanpk716/chinesesubfinder:latest
-amtoaer/bili-sync-rs:latest
-dreamacro/clash:latest
-allanpk716/chinesesubfinder:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

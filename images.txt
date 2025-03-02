@@ -1,5 +1,4 @@
-seatable/seatable-developer:5.1.0
-seatable/seatable-developer:latest
+tonyrl/transmission-skip-hash-check:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

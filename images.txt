@@ -1,4 +1,4 @@
-lscr.io/linuxserver/prowlarr:latest
+luoyuu77/baota:debian11.v5.0
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

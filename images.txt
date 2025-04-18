@@ -1,3 +1,4 @@
+advplyr/audiobookshelf:latest
 allanpk716/chinesesubfinder:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

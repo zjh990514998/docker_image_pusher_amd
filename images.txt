@@ -1,4 +1,4 @@
-demoshow/chrome:latest
+sassv/chrome:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

@@ -1,5 +1,4 @@
-advplyr/audiobookshelf:latest
-allanpk716/chinesesubfinder:latest
+demoshow/chrome:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

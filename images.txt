@@ -1,3 +1,4 @@
+superng6/qbittorrent:4.6.7_v2.0.10
 superng6/qbittorrentee:latest
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest

@@ -1,3 +1,4 @@
+lswl/vertex:stable
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

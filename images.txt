@@ -1,4 +1,5 @@
-lswl/vertex:stable
+amilys/embyserver:latest
+amilys/embyserver:4.8.7.0
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

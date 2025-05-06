@@ -1,5 +1,4 @@
-nevinee/qbittorrent:latest
-nevinee/qbittorrent:5.1.0
+alpine:3.18.4
 amilys/embyserver:latest
 amilys/embyserver:4.8.7.0
 wushuo894/ani-rss:latest

@@ -1,6 +1,5 @@
-alpine:3.18.4
+linuxserver/plex:latest
 amilys/embyserver:latest
-amilys/embyserver:4.8.7.0
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

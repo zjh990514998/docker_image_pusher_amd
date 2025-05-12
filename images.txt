@@ -1,5 +1,4 @@
-linuxserver/plex:latest
-amilys/embyserver:latest
+jrohy/webssh:latest
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

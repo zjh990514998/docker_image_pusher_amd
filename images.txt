@@ -1,3 +1,4 @@
+nevinee/qbittorrent:4.6.4
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

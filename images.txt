@@ -1,5 +1,4 @@
-gotson/komga:latest
-nevinee/qbittorrent:4.6.4
+xiaohaigreen/mteam-active-top-rss:latest
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

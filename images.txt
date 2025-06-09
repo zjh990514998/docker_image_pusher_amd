@@ -1,4 +1,4 @@
-xiaohaigreen/mteam-active-top-rss:latest
+seatable/seatable-developer:5.2.0
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

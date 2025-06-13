@@ -1,4 +1,4 @@
-seatable/seatable-developer:5.2.0
+cosincox/easyvoice:latest
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

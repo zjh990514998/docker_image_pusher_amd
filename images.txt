@@ -1,4 +1,4 @@
-cosincox/easyvoice:latest
+ddsderek/transmission:4.0.6-r4
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest

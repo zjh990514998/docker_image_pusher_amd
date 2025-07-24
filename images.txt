@@ -1,3 +1,4 @@
+xhongc/music_tag_web:latest
 eternalcurse/pt-accelerator:latest
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest

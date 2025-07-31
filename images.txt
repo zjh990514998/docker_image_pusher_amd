@@ -1,5 +1,5 @@
+minio/minio:latest
 xhongc/music_tag_web:latest
-xhongc/music_tag_web:2.5.2
 eternalcurse/pt-accelerator:latest
 wushuo894/ani-rss:latest
 jxxghp/moviepilot-v2:latest

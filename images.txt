@@ -1,3 +1,4 @@
+tooandy/navichina:latest
 tooandy/navidrome:latest
 minio/minio:latest
 xhongc/music_tag_web:latest

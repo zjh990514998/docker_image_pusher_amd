@@ -1,3 +1,4 @@
+newptools/harvest:latest
 jxxghp/moviepilot-v2:latest
 tooandy/navichina:latest
 deluan/navidrome:latest

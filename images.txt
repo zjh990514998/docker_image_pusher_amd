@@ -1,3 +1,4 @@
+amilys/embyserver:latest
 pipi20xx/emby-virtual-proxy:latest
 amtoaer/bili-sync-rs:latest
 jxxghp/moviepilot-v2:latest

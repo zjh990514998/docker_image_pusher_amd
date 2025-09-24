@@ -1,3 +1,4 @@
+sillytavern/sillytavern:latest
 superng6/qbittorrentee:latest
 moelin/1panel:latest
 amilys/embyserver:latest

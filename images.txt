@@ -1,3 +1,4 @@
+jxxghp/moviepilot:latest
 baozaodetudou/sqlite-to-postgres:latest
 postgres:latest
 ddsderek/transmission:4.0.5-r3
@@ -14,5 +15,4 @@ xhongc/music_tag_web:latest
 xhongc/music_tag_web:2.5.2
 eternalcurse/pt-accelerator:latest
 wushuo894/ani-rss:latest
-jxxghp/moviepilot:latest
 linyuan0213/nas-tools:latest

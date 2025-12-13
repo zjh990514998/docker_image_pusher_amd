@@ -1,5 +1,3 @@
-gotify/server:latest
-lev1024/synology-chat-push-gateway:latest
 jxxghp/moviepilot:latest
 baozaodetudou/sqlite-to-postgres:latest
 postgres:latest

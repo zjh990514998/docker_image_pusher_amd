@@ -1,3 +1,4 @@
+yucatovo/baidunetdisk-docker:latest
 jxxghp/moviepilot:latest
 baozaodetudou/sqlite-to-postgres:latest
 postgres:latest

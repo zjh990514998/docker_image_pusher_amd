@@ -1,3 +1,4 @@
+davindisko/roon-photon:latest
 tecnativa/docker-socket-proxy:latest
 spf20081/melodyhub:1.1.4
 spf20081/melodyhub:latest

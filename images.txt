@@ -1,8 +1,2 @@
+seatable/seatable-developer:latest
 jxxghp/moviepilot-v2:latest
-davindisko/roon-photon:latest
-tecnativa/docker-socket-proxy:latest
-spf20081/melodyhub:1.1.4
-spf20081/melodyhub:latest
-minzgo/music-scraper:latest
-jxxghp/moviepilot:latest
-linyuan0213/nas-tools:latest

@@ -1,2 +1,3 @@
 seatable/seatable-developer:latest
 jxxghp/moviepilot-v2:latest
+fujuage/fujufrp:x86_v1.2

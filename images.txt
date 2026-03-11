@@ -1,3 +1,2 @@
-seatable/seatable-developer:6.0.0
+1186258278/openclaw-zh:latest
 jxxghp/moviepilot-v2:latest
-fujuage/fujufrp:x86_v1.2

@@ -1,2 +1,3 @@
+openwebui/open-webui:0.8-cuda
 1186258278/openclaw-zh:latest
 jxxghp/moviepilot-v2:latest

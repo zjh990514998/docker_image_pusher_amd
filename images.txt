@@ -1,2 +1,2 @@
-1186258278/openclaw-zh:latest
+shinejh0528/ollama:1.1.0
 jxxghp/moviepilot-v2:latest

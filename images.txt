@@ -1,2 +1,2 @@
-moelin/1panel:v2
+1panel/openclaw:2026.3.28
 jxxghp/moviepilot-v2:latest

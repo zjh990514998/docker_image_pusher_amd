@@ -1,3 +1,2 @@
-ginuerzh/gost:latest
 jxxghp/moviepilot-v2:latest
 linyuan0213/nas-tools:latest

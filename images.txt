@@ -1,4 +1,4 @@
+jxxghp/moviepilot-v2:latest
 gdy666/lucky
 agentscope/qwenpaw:latest
-jxxghp/moviepilot-v2:latest
 linyuan0213/nas-tools:latest

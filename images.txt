@@ -1,4 +1,2 @@
+nevinee/qbittorrent:4.5.4
 jxxghp/moviepilot-v2:latest
-gdy666/lucky
-agentscope/qwenpaw:latest
-linyuan0213/nas-tools:latest

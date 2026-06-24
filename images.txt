@@ -1,2 +1,2 @@
-nevinee/qbittorrent:4.5.4
+amilys/embyserver:4.9.3.0
 jxxghp/moviepilot-v2:latest

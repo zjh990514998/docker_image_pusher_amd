@@ -1,3 +1,2 @@
-jxxghp/moviepilot-v2:2.13.6
-amilys/embyserver:4.9.3.0
+eooce/webssh:latest
 jxxghp/moviepilot-v2:latest

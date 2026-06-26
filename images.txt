@@ -1,2 +1,3 @@
+ghcr.io/mtvpls/moontvplus:latest
 eooce/webssh:latest
 jxxghp/moviepilot-v2:latest

@@ -1,2 +1,2 @@
-apache/kvrocks:latest
+ghcr.io/stardm0/moontv:latest
 jxxghp/moviepilot-v2:latest

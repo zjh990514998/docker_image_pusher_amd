@@ -1,2 +1,2 @@
-ghcr.io/stardm0/moontv:latest
+portainer/agent:2.19.5
 jxxghp/moviepilot-v2:latest

@@ -1,3 +1,4 @@
+walkingd/tgto123:latest
 straluminyo/fnos-trim:latest
 buaizheteng/smbox:latest
 jxxghp/moviepilot-v2:latest

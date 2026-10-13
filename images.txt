@@ -1,3 +1,4 @@
+filebrowser/filebrowser:latest
 goolashe/sillytavern:stable
 walkingd/tgto123:latest
 straluminyo/fnos-trim:latest

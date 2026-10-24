@@ -1,8 +1,2 @@
-openspeedtest/latest:latest
-ddg5366/roonserver:latest
-goolashe/sillytavern:stable
-walkingd/tgto123:latest
-straluminyo/fnos-trim:latest
-buaizheteng/smbox:latest
+adolfintel/speedtest:latest
 jxxghp/moviepilot-v2:latest
-agentscope/qwenpaw:latest
